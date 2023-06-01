@@ -11,3 +11,4 @@ Diseñar un dispositivo que permita la detección de temperatura corporal, mostr
 - Jonathan Raciel
 ## Materiales
 |ID|Nombre|Descripción|Imagen|Precio|Cantidad|
+|--|------|-----------|------|------|--------|
